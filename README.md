@@ -41,7 +41,7 @@
 ## 🚀 Featured Projects
 
 ### 🔹 ICTCricinfo  
-🔗 https://saurabh-singh-07.github.io/ICTCricinfo.02/  
+🔗 https://saurabh-singh-07.github.io/ICTCricinfo/
 Modern cricket information web app built with React & Tailwind CSS.
 
 ### 🔹 RestroBooks  
