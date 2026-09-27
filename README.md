@@ -53,7 +53,7 @@ const saurabh = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,postgresql,mysql,cpp,c,git,github,vscode,npm,postman,docker" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,postgresql,mysql,cpp,c,git,github,vscode,npm,postman" />
 
 <br/><br/>
 
