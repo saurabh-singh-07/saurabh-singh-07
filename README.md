@@ -1,32 +1,30 @@
-<!-- ===================== HERO ===================== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Saurabh%20Singh&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Frontend%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=Saurabh%20Singh&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%203rd%20Year%20BCA%20Student&descAlignY=58&descSize=19" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer+%F0%9F%92%BB;Frontend+Developer+%F0%9F%8E%A8;React.js+%7C+Node.js+%7C+Express.js;MongoDB+%7C+PostgreSQL+%7C+REST+APIs;Building+Real-World+Web+Applications+%F0%9F%9A%80;DSA+%7C+C%2B%2B+%7C+Problem+Solving+%F0%9F%A7%A0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer+%F0%9F%92%BB;Frontend+Developer+%F0%9F%8E%A8;React.js+%7C+Node.js+%7C+Express.js;MongoDB+%7C+PostgreSQL+%7C+REST+APIs;Building+Real-World+Web+Applications+%F0%9F%9A%80;DSA+%7C+C%2B%2B+%7C+Problem+Solving+%F0%9F%A7%A0" alt="Typing SVG"/>
 
 <br/>
 
 <a href="https://saurabh007.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://github.com/saurabh-singh-07">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="YOUR_LEETCODE_URL">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 <a href="YOUR_GFG_URL">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=saurabh-singh-07&label=Profile%20Views&color=2563eb&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=saurabh-singh-07&label=Profile%20Views&color=2563eb&style=flat-square"/>
 
 </div>
 
@@ -34,126 +32,71 @@
 
 ## 👨‍💻 About Me
 
+I'm **Saurabh Singh**, a **3rd Year BCA student** and MERN Stack Developer passionate about building modern, responsive, and user-friendly web applications.
+
+I enjoy transforming ideas into real-world projects and continuously improving my skills in **full-stack development, REST APIs, databases, and Data Structures & Algorithms**.
+
 ```javascript
 const saurabh = {
     role: "MERN Stack Developer",
-    education: "BCA Student",
-    location: "India",
-
-    frontend: [
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "TypeScript",
-        "React.js",
-        "Tailwind CSS"
-    ],
-
-    backend: [
-        "Node.js",
-        "Express.js",
-        "REST APIs"
-    ],
-
-    databases: [
-        "MongoDB",
-        "PostgreSQL",
-        "SQL"
-    ],
-
-    languages: [
-        "C",
-        "C++",
-        "JavaScript",
-        "TypeScript"
-    ],
-
-    tools: [
-        "Git",
-        "GitHub",
-        "VS Code",
-        "NPM",
-        "Postman",
-        "Docker"
-    ],
-
-    currentlyLearning: [
-        "Advanced React",
-        "MERN Stack",
-        "System Design",
-        "Data Structures & Algorithms"
-    ],
-
-    goal: "Build scalable and impactful web applications 🚀"
+    education: "3rd Year BCA Student",
+    focus: "Full-Stack Web Development",
+    language: "C++ for DSA",
+    passion: "Building Real-World Applications",
+    goal: "Become a skilled Software Developer 🚀"
 };
 ```
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Skills
 
 <div align="center">
 
-### 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,postgresql,mysql,cpp,c,git,github,vscode,npm,postman,docker" />
 
 <br/><br/>
 
-### ⚙️ Backend & APIs
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-<br/><br/>
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
-
-<br/><br/>
-
-### 💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=cpp,c,js,ts" />
-
-<br/><br/>
-
-### 🔧 Tools & Technologies
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,docker" />
+<img src="https://img.shields.io/badge/REST%20API-2563eb?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge"/>
 
 </div>
+
+### Technologies I Work With
+
+`HTML5` · `CSS3` · `JavaScript` · `TypeScript` · `React.js` · `Tailwind CSS`
+
+`Node.js` · `Express.js` · `REST API` · `JWT` · `JSON`
+
+`MongoDB` · `PostgreSQL` · `MySQL` · `SQL`
+
+`C` · `C++`
+
+`Git` · `GitHub` · `VS Code` · `NPM` · `Postman` `· Axios` · `Cloudinary`
 
 ---
 
 # 🚀 Featured Projects
 
-<div align="center">
-
 ## 🤖 Thumbnest — AI Thumbnail Generator
 
-<img src="https://img.shields.io/badge/Full--Stack-AI%20Application-2563eb?style=flat-square"/>
-<img src="https://img.shields.io/badge/React-TypeScript-3178C6?style=flat-square"/>
-<img src="https://img.shields.io/badge/Node.js-Express-339933?style=flat-square"/>
-<img src="https://img.shields.io/badge/MongoDB-Cloudinary-47A248?style=flat-square"/>
+A full-stack AI-powered application that allows users to generate customized thumbnails using prompts, styles, colors, aspect ratios, and text overlays.
 
-</div>
+**Tech:** React.js · TypeScript · Node.js · Express.js · MongoDB · Cloudinary · REST API
 
-A full-stack AI-powered thumbnail generation platform that allows users to create customized thumbnails using prompts, styles, colors, aspect ratios and text overlays.
+**Features**
 
-**Highlights**
-
-* 🔐 User authentication
 * 🤖 AI-powered thumbnail generation
-* 🎨 Multiple visual styles
+* 🔐 User authentication
+* 🎨 Multiple thumbnail styles
 * 📐 Multiple aspect ratios
 * ☁️ Cloudinary image storage
 * 🗄️ MongoDB database
-* 👤 Personal generation history
+* 👤 Generation history
 * ⬇️ Download generated thumbnails
-* 🛡️ Session-based authentication
-
-**Tech:** React.js · TypeScript · Node.js · Express.js · MongoDB · Cloudinary · REST API
 
 <div align="center">
 
@@ -169,29 +112,21 @@ A full-stack AI-powered thumbnail generation platform that allows users to creat
 
 ---
 
-<div align="center">
-
 ## 🏏 ICTCricinfo
 
-<img src="https://img.shields.io/badge/React-JavaScript-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/API-Integration-2563eb?style=flat-square"/>
+A responsive cricket application that provides live, recent, and upcoming match information with detailed scorecards.
 
-</div>
+**Tech:** React.js · JavaScript · Tailwind CSS · Axios · REST API
 
-A responsive cricket application that provides users with live, recent and upcoming match information along with detailed scorecards.
+**Features**
 
-**Highlights**
-
-* 🏏 Live cricket matches
+* 🏏 Live matches
 * 📅 Upcoming matches
 * 🕐 Recent matches
 * 📊 Detailed scorecards
 * 🔗 Cricket API integration
-* 📱 Responsive design
-* ⚡ Fast React-based interface
-
-**Tech:** React.js · JavaScript · Tailwind CSS · Axios · REST API
+* 📱 Responsive interface
+* ⚡ Fast React-based UI
 
 <div align="center">
 
@@ -203,27 +138,20 @@ A responsive cricket application that provides users with live, recent and upcom
 
 ---
 
-<div align="center">
-
 ## 🍽️ RestroBooks
 
-<img src="https://img.shields.io/badge/React-JavaScript-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-
-</div>
-
-A modern and responsive restaurant-focused web application built with a clean interface and user-friendly experience.
-
-**Highlights**
-
-* 🍽️ Restaurant-focused UI
-* 📱 Fully responsive design
-* 🎨 Modern interface
-* ⚡ React-based architecture
-* 🧩 Reusable components
-* 🌙 Clean visual design
+A modern and responsive restaurant-focused web application designed with a clean interface and user-friendly experience.
 
 **Tech:** React.js · JavaScript · Tailwind CSS · HTML5 · CSS3
+
+**Features**
+
+* 🍽️ Restaurant-focused interface
+* 📱 Responsive design
+* 🎨 Modern UI
+* ⚡ React-based architecture
+* 🧩 Reusable components
+* ✨ Clean user experience
 
 <div align="center">
 
@@ -237,17 +165,17 @@ A modern and responsive restaurant-focused web application built with a clean in
 
 # 🧠 DSA & Problem Solving
 
-I regularly practice **Data Structures & Algorithms using C++** and focus on improving problem-solving and competitive programming fundamentals.
+I practice **Data Structures & Algorithms using C++** to strengthen my problem-solving and coding skills.
 
-### 📚 Topics
+### Topics
 
-`Arrays` · `Strings` · `Two Pointers` · `Sliding Window` · `Prefix Sum` · `Kadane's Algorithm`
+`Arrays` · `Strings` · `Two Pointers` · `Sliding Window` · `Prefix Sum`
 
-`Stack` · `Queue` · `Linked List` · `Recursion` · `Binary Search` · `Sorting`
+`Kadane's Algorithm` · `Stack` · `Queue` · `Linked List` · `Recursion`
 
-`Hashing` · `Trees` · `Binary Trees` · `Graphs` · `Dynamic Programming`
+`Binary Search` · `Sorting` · `Hashing` · `Trees` · `Binary Trees`
 
-<br/>
+`Graphs` · `Dynamic Programming`
 
 <div align="center">
 
@@ -273,7 +201,7 @@ I regularly practice **Data Structures & Algorithms using C++** and focus on imp
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=saurabh-singh-07&theme=tokyonight&hide_border=true&border_radius=12" />
+<img src="https://streak-stats.demolab.com?user=saurabh-singh-07&theme=tokyonight&hide_border=true&border_radius=12"/>
 
 </div>
 
@@ -289,12 +217,12 @@ I regularly practice **Data Structures & Algorithms using C++** and focus on imp
 
 ---
 
-# 🌐 Let's Connect
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://saurabh007.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-saurabh007.vercel.app-2563eb?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-2563eb?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
@@ -310,7 +238,7 @@ I regularly practice **Data Structures & Algorithms using C++** and focus on imp
 </a>
 
 <a href="YOUR_GFG_URL">
-<img src="https://img.shields.io/badge/GFG-My%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-My%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 </div>
@@ -319,9 +247,11 @@ I regularly practice **Data Structures & Algorithms using C++** and focus on imp
 
 <div align="center">
 
-### 💭 *"Code. Learn. Build. Repeat."*
+### 💭 `Code • Learn • Build • Repeat`
 
 <br/>
+
+**Thanks for visiting my profile! ⭐**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=120&section=footer" width="100%"/>
 
